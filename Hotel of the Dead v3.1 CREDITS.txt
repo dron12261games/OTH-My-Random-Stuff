@@ -1,0 +1,28 @@
+The map was created by DRON12261.
+
+Soundtrack ("A lot to learn" from D64D2.wad):
+MIDI version by DILDOMASTER666
+OGG version by DAR
+
+Thunder sounds from Eternity Engine resources.
+
+Special thanks for testing:
+Dexiaz (as well as for providing the link to the 666crets thread)
+NicolasTheFuggit
+Olphian
+
+And special thanks to DeathWish, for helping me figure out a couple of technical nuances in implementing the 3D elevator under Boom (the one on the street leads to the second floor).
+
+Tested ports:
+DSDA - [0.25.6]
+Woof! - [10.4.0]
+prBoom+ - [2.6.1]
+Eternity Engine - [4.02]
+Doom Retro - [4.7.2]
+GZDoom - [4.9.0]
+Zandronum - [3.1]
+LZDoom - [3.88]
+ZDoom - [2.8.1]
+ZDaemon - [1.10.22]
+Odamex - [10.3]
+Crispy Doom - [5.12.0]

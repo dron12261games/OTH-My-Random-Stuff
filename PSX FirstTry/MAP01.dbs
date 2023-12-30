@@ -1,0 +1,56 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "Psx_Doom_PsyDoom.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP01
+	{
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 2;
+				location = "E:\\ABSOLUTE POWER\\Doom\\Resources\\PSX\\PSXFINALDOOM.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		defaultfloortexture = "BLOOD2";
+		defaultceiltexture = "BLOOD2";
+		defaulttoptexture = "64DOOR01";
+		defaultwalltexture = "64DOOR01";
+		defaultbottomtexture = "64DOOR01";
+		custombrightness = 196;
+		customfloorheight = 0;
+		customceilheight = 128;
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		overridetoptexture = false;
+		overridemiddletexture = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overrideceilheight = false;
+		overridebrightness = false;
+		uselongtexturenames = false;
+		useresourcesinreadonlymode = false;
+		viewpositionx = 296.733f;
+		viewpositiony = 110.7675f;
+		viewscale = 1.856465f;
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 16f;
+		}
+	}
+}

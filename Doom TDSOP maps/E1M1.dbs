@@ -1,0 +1,128 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "ZDoom_DoomUDMF.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	E1M1
+	{
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 2;
+				location = "E:\\Doom Staff\\Wads\\Doom TDSOP.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		defaultfloortexture = "COMPFL1";
+		defaultceiltexture = "SHAWNFL6";
+		defaulttoptexture = "TEKGY6";
+		defaultwalltexture = "TEKGY6";
+		defaultbottomtexture = "TEKGY6";
+		custombrightness = 196;
+		customfloorheight = 0;
+		customceilheight = 128;
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		overridetoptexture = false;
+		overridemiddletexture = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overrideceilheight = false;
+		overridebrightness = false;
+		uselongtexturenames = false;
+		useresourcesinreadonlymode = false;
+		viewpositionx = 878.6021f;
+		viewpositiony = 945.2518f;
+		viewscale = 1.352519f;
+		scriptcompiler = "zdoom_acs.cfg";
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 32f;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
+		}
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				locknumber = 0;
+				renderstyle = 2;
+			}
+			
+			sidedef
+			{
+				offsetx_mid = 1;
+				offsety_mid = 1;
+				offsetx_bottom = 1;
+				offsety_bottom = 1;
+				offsetx_top = 1;
+				offsety_top = 1;
+				light = 0;
+			}
+			
+			sector
+			{
+				xpanningfloor = 1;
+				ypanningfloor = 1;
+				xpanningceiling = 1;
+				ypanningceiling = 1;
+				rotationceiling = 1;
+				lightceiling = 0;
+				rotationfloor = 1;
+				xscalefloor = 1;
+				yscalefloor = 1;
+				xscaleceiling = 1;
+				yscaleceiling = 1;
+				lightceilingabsolute = 3;
+			}
+			
+			thing
+			{
+				renderstyle = 2;
+				alpha = 1;
+			}
+		}
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 350;
+				firstvisibleline = 4;
+				activetab = true;
+			}
+		}
+	}
+}

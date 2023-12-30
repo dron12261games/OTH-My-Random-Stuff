@@ -1,0 +1,81 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "ZDoom_DoomUDMF.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	E1M5
+	{
+		defaultceiltexture = "FLAT20";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		scriptcompiler = "zdoom_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 2;
+				location = "E:\\Doom Staff\\Wads\\Doom TDSOP.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 902.8479f;
+		defaulttoptexture = "TEKGREN2";
+		overrideceilheight = false;
+		useresourcesinreadonlymode = false;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0f;
+			backscaley = 100;
+			gridrotate = 0f;
+			backscalex = 100;
+			gridoriginx = 0f;
+			gridsize = 8f;
+			background = "";
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "TEKGREN2";
+		defaultfloortexture = "SLIME14";
+		viewpositiony = 665.8812f;
+		defaultwalltexture = "TEKGREN2";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 4.593122f;
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				locknumber = 0;
+			}
+			
+			sidedef
+			{
+				offsetx_mid = 1;
+			}
+			
+			thing
+			{
+				1 = 3;
+				2 = 3;
+				4 = 3;
+			}
+		}
+	}
+}

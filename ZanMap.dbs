@@ -14,28 +14,18 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-				requiredarchives = "";
-			}
-			
-			resource1
-			{
-				type = 0;
-				location = "E:\\ABSOLUTE POWER\\Doom\\Resources\\Textures\\OTEX_1.1.WAD";
+				location = "E:\\1_ABSOLUTE_POWER_1\\Doom\\IWADS\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
 		}
-		defaultfloortexture = "ONMLMB02";
-		defaultceiltexture = "OGRBLA02";
-		defaulttoptexture = "OSTARB90";
-		defaultwalltexture = "OSTARB90";
-		defaultbottomtexture = "OSTARB90";
+		defaultfloortexture = "FLOOR0_1";
+		defaultceiltexture = "CEIL1_1";
+		defaulttoptexture = "STARTAN2";
+		defaultwalltexture = "STARTAN2";
+		defaultbottomtexture = "STARTAN2";
 		custombrightness = 196;
 		customfloorheight = 0;
 		customceilheight = 128;
@@ -48,9 +38,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -27.78647f;
-		viewpositiony = -207.8122f;
-		viewscale = 0.4999999f;
+		viewpositionx = -148.2352f;
+		viewpositiony = -155.9158f;
+		viewscale = 1.098499f;
 		scriptcompiler = "zandronum_acs.cfg";
 		
 		grid
@@ -61,7 +51,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 64;
+			gridsize = 32;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -109,15 +99,6 @@ maps
 					outertop = 1024;
 					outerbottom = 512;
 				}
-			}
-		}
-		
-		fieldtypes
-		{
-			
-			sector
-			{
-				user_managed_3d_floor = 3;
 			}
 		}
 		

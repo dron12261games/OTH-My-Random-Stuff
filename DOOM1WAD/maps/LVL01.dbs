@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				location = "F:\\1_ABSOLUTE_POWER_1\\Doom\\IWADS\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -24,7 +24,7 @@ maps
 			resource1
 			{
 				type = 0;
-				location = "E:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\RES-ColossalDTex\\ColossalDTexOLD.wad";
+				location = "F:\\1_ABSOLUTE_POWER_1\\Doom\\DRON12261 Projects\\RES-ColossalDTex\\ColossalDTexOLD.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -34,7 +34,7 @@ maps
 			resource2
 			{
 				type = 2;
-				location = "E:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\DRON12261\\DOOM1WAD\\DOOM1WAD.pke";
+				location = "F:\\1_ABSOLUTE_POWER_1\\Doom\\DRON12261 Projects\\OTH-My-Random-Stuff\\DOOM1WAD\\DOOM1WAD.pke";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -58,9 +58,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 116.2358f;
-		viewpositiony = 348.7935f;
-		viewscale = 1.04041f;
+		viewpositionx = -448.0056f;
+		viewpositiony = 601.3365f;
+		viewscale = 0.4735593f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -71,7 +71,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 32;
+			gridsize = 64;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;

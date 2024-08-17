@@ -1,0 +1,54 @@
+DoomEdNums
+{
+	// Stock Doom Weapons
+	10000 = Delta_MapSpawn_Rifle
+	10001 = Delta_MapSpawn_Shotgun
+	10002 = Delta_MapSpawn_SuperShotgun
+	10003 = Delta_MapSpawn_Chaingun
+	10004 = Delta_MapSpawn_RocketLauncher
+	10005 = Delta_MapSpawn_PlasmaRifle
+	10006 = Delta_MapSpawn_BFG2704
+	10007 = Delta_MapSpawn_Chainsaw
+	
+	// New Doom Delta Weapons
+	10008 = Delta_MapSpawn_MachineGun
+	10009 = Delta_MapSpawn_DarkClaw
+	10010 = Delta_MapSpawn_Unmaker
+	10011 = Delta_MapSpawn_WolfMachineGun
+	10012 = Delta_MapSpawn_GrenadeLauncher
+	
+	// Doom Delta Ammo
+	10050 = Delta_Ammo_SoulJar
+	
+	// Doom Delta Monsters
+	10100 = Delta_Gargoyle
+	10101 = Delta_MachineGunGuy
+	10102 = Delta_TheBlob
+	
+	// Doom Delta Armor
+	10200 = Delta_DemonArmorSpawner
+	
+	10300 = Delta_Shield_Heat
+	10301 = Delta_Shield_Energy
+	10302 = Delta_Shield_Hitscan
+	10303 = Delta_Shield_Melee
+	
+	10400 = Delta_ScoreItem_Goblet
+	10401 = Delta_ScoreItem_Sceptre
+	10402 = Delta_ScoreItem_Dagger
+	10403 = Delta_ScoreItem_Chest
+	10404 = Delta_ScoreItem_Bible
+	10405 = Delta_ScoreItem_Rune
+	10406 = Delta_ScoreItem_Canister
+	10407 = Delta_ScoreItem_Drill
+	10408 = Delta_ScoreItem_Box
+	
+	10410 = Delta_LoreleiDoll
+	10411 = Delta_JohnDoll
+	10412 = Delta_DimitriDoll
+	10413 = Delta_ThiDoll
+	
+	// Props
+	10800 = Delta_RolleeChair
+	10801 = Delta_UACOfficeLamp
+}

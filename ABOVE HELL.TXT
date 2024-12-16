@@ -1,0 +1,77 @@
+===========================================================================
+Advanced engine needed  : Limit-Removing, Software Renderer
+Primary purpose         : Single play
+===========================================================================
+Title                   : Above Hell
+Filename                : ABOVE HELL.WAD
+Release date            : 04 Sep 2024
+Author                  : DRON12261
+Email Address           : andrejskocko@gmail.com
+Other Files By Author   : Hotel of the Dead, Scythe Reforged Teaser, Russian
+                          Random Speedmap Packs, ShovelDM Maps, Death by 1000
+                          Lines Maps, Constriction 1024 Maps and e.t.c.
+Misc. Author Info       : Mapper, mod maker, programmer, and quite a bit of
+                          pixel art artist.
+
+Description             : E4M1: Hell Beneath remake of Ultimate Doom.
+                          Speedmaped in about 6 hours long. A remake in the
+                          style of A Doom Odyssey 2022. Since I'm a big fan
+                          of the mapping of Kristian Aro, Paul Korfiatis,
+                          A2Rob, etc., and my mapping style incorporates a
+                          lot from their work, a map like this went
+                          naturally.
+
+Additional Credits to   : ADO2022 (pcorf team) for resources and inspiration
+
+                          Based on original E4M1 from Ultimate Doom
+
+                          MIDI: "Cyanide Downpour" by Jimmy Paddock
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom
+Map #                   : E4M1
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 6 Hours
+Editor(s) used          : Ultimate Doom Builder, SLADE 3, Aseprite
+Tested With             : Woof!, Rude Doom, Cherry Doom
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use. If you remix, transform, or build upon the material, you must
+distribute your contributions under the same license as the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
